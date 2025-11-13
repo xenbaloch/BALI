@@ -1,5 +1,4 @@
-The code will be made available soon. The dataset link will be shared soon. \
+The code, dataset link, and supplementary material wil be available at: https://github.com/xenbaloch/BALI
 
-Thank you for understanding.
 
 For details, contact: mzain771@outlook.com 
